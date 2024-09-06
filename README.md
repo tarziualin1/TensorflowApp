@@ -1,6 +1,10 @@
+### Running the Application
 
-In the project directory run:
+To start the application in development mode, follow these steps:
 
-npm start
-Runs the app in the development mode.\ Open http://localhost:3000 to view it in the browser.
+1. **Open your terminal** and navigate to the project directory.
 
+2. **Run the following command:**
+
+   ```bash
+   npm start
